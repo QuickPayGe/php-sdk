@@ -4,6 +4,11 @@
     "type": "library",
     "license": "MIT",
     "keywords": ["quickpay", "payment", "georgia", "sdk", "api"],
+    "homepage": "https://github.com/QuickPayGe/php-sdk",
+    "support": {
+        "source": "https://github.com/QuickPayGe/php-sdk",
+        "issues": "https://github.com/QuickPayGe/php-sdk/issues"
+    },
     "require": {
         "php": "^8.1"
     },
