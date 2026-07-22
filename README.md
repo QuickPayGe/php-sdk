@@ -8,7 +8,7 @@ Official PHP SDK for the [Quickpay.ge](https://quickpay.ge) payment gateway API.
 composer require quickpay/php-sdk
 ```
 
-Requires PHP 8.1+. No external runtime dependencies.
+Requires PHP 8.2+. No external runtime dependencies.
 
 ## Quick Start
 
