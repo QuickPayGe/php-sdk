@@ -1,11 +1,11 @@
-# quickpay/php-sdk
+# quickpayge/php-sdk
 
 Official PHP SDK for the [Quickpay.ge](https://quickpay.ge) payment gateway API.
 
 ## Installation
 
 ```bash
-composer require quickpay/php-sdk
+composer require quickpayge/php-sdk
 ```
 
 Requires PHP 8.2+. No external runtime dependencies.

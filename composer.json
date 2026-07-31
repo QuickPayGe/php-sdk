@@ -1,5 +1,5 @@
 {
-    "name": "quickpay/php-sdk",
+    "name": "quickpayge/php-sdk",
     "description": "Official PHP SDK for the Quickpay.ge payment gateway API",
     "type": "library",
     "license": "MIT",
